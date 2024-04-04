@@ -86,8 +86,8 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![318213122-6712037c-b58c-453a-ad91-85bfef9cc8b0](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/0fc03f85-d340-466e-b4d0-f2e7fcba42c2)
 
+![318274127-130a8623-3cd4-4ddd-89ff-935bf74aff97](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/591dd1e9-9168-45e2-932a-5891481517e7)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -108,7 +108,9 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![318213174-b8aa56ce-6f4b-4932-a7c0-6a3af298d952](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/6c015698-4a05-44e0-a13c-b5c4f0f37380)![318213188-1bfceeb3-de25-463f-ad56-92d422c7c50b](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/143120bd-940f-462f-afd0-6be4e9dfb4a7)
+
+![318274301-c3407cc7-89d4-405f-b2f0-d746c3a7a8c0](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/28f7497d-3a82-4d71-a102-d2f73c254258)
+![318274213-2d7f8906-d4aa-4355-a0aa-69f3bd85feca](https://github.com/HemapriyaOfficial/Linux-IPC-Pipes/assets/147114275/a92d07bb-9a41-40bc-bca8-2b8a816e0603)
 
 
 
